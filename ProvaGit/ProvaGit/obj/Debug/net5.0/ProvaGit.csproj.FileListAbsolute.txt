@@ -1,0 +1,16 @@
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ProvaGit.exe
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ProvaGit.deps.json
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ProvaGit.runtimeconfig.json
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ProvaGit.runtimeconfig.dev.json
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ProvaGit.dll
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ref\ProvaGit.dll
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\bin\Debug\net5.0\ProvaGit.pdb
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.csproj.AssemblyReference.cache
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.AssemblyInfoInputs.cache
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.AssemblyInfo.cs
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.csproj.CoreCompileInputs.cache
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.dll
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ref\ProvaGit.dll
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.pdb
+C:\Users\princ\OneDrive\Desktop\Week1\Prova GitBash\ProvaGit\ProvaGit\obj\Debug\net5.0\ProvaGit.genruntimeconfig.cache
